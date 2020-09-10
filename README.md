@@ -4,6 +4,6 @@
 <details markdown="1">
 <summary>Chapter 0</summary>
 
-[절대값 구하기](https://github.com/DongGeon0908/python_basic_algorithm/tree/master/%ED%92%80%EC%9D%B4/0)
+[절대값 구하기](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/0/0-1.py)
 
 </details>
