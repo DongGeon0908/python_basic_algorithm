@@ -25,3 +25,9 @@
 4. [동명이인을 찾는 알고리즘](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/3/3-1.py)
 
 </details>
+<details markdown="1">
+<summary>Chapter 3</summary>
+
+1. [동명이인을 찾는 알고리즘](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/3/3-1.py)
+
+</details>
