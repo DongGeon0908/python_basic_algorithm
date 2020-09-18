@@ -22,5 +22,6 @@
 1. [최대값을 구하는 알고리즘](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/2/2-1.py)
 2. [최대값의 위치를 구하는 알고리즘](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/2/2-2)
 3. [최소값을 구하는 알고리즘](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/2/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C2-1.py)
+4. [동명이인을 찾는 알고리즘](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/3/3-1.py)
 
 </details>
