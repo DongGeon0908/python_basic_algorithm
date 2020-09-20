@@ -37,5 +37,7 @@
 
 1. [팩토리얼을 구하는 알고리즘 1](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/4/4-1.py)
 2. [팩토리얼을 구하는 알고리즘 2](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/4/4-2.py)
+3. [1부터 n까지의 합 구하기 - 재귀 호출](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/4/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C4-1.py)
+4. [숫자 n개 중에서 최대값 찾기]()
 
 </details>
