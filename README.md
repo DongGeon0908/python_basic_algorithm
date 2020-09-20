@@ -32,3 +32,9 @@
 2. [1-1로 짝짓기](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/3/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C3-1.py)
 
 </details>
+<details markdown="1">
+<summary>Chapter 4</summary>
+
+1. [팩토리얼을 구하는 알고리즘 1](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/4/4-1.py)
+
+</details>
