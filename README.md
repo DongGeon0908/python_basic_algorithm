@@ -46,5 +46,6 @@
 
 1. [최대공약수를 구하는 알고리즘](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/5/5-1.py)
 2. [유클리드 방식을 이용해 최대공약수를 구하는 알고리즘](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/5/5-2.py)
+3. [재귀함수를 이용한 피보나치 수열](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/5/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C5-1.py)
 
 </details>
