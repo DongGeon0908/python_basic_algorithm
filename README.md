@@ -45,5 +45,6 @@
 <summary>Chapter 5</summary>
 
 1. [최대공약수를 구하는 알고리즘](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/5/5-1.py)
+2. [유클리드 방식을 이용해 최대공약수를 구하는 알고리즘](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/5/5-2.py)
 
 </details>
