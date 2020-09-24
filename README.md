@@ -67,5 +67,6 @@
 <summary>Chapter 8</summary>
 
 1. [쉽게 설명한 선택 정렬 알고리즘](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/8/8-1.py)
+2. [일반적인 선택 정렬 알고리즘](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/8/8-2.py)
 
 </details>
