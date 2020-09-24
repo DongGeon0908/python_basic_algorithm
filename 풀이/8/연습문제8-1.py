@@ -1,16 +1,16 @@
-def find_min(a):
+def find_max(a):
     n = len(a)
-    min = 0
+    max = 0
     for i in range(1, n):
-        if a[i] > a[min]:
-            min = i
-    return min
+        if a[i] > a[max]:
+            max = i
+    return max
 
 def sort(a):
     result = []
     while a:
-        min = find_min(a)
-        value = a.pop(min)
+        max = find_max(a)
+        value = a.pop(max)
         result.append(value)
     return result
 
