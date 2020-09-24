@@ -63,3 +63,9 @@
 3. [리스트의 숫자를 찾아 대응하는 리스트의 값을 출력](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/7/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C7-3.py)
 
 </details>
+<details markdown="1">
+<summary>Chapter 8</summary>
+
+1. [쉽게 설명한 선택 정렬 알고리즘](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/8/8-1.py)
+
+</details>
