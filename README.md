@@ -75,6 +75,6 @@
 <details markdown="1">
 <summary>Chapter 9</summary>
 
-[https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/9/9-1.py]
+1. [쉽게 설명한 삽입 정렬 알고리즘](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/9/9-1.py)
 
 </details>
