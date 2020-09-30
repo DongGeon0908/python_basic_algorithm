@@ -86,7 +86,7 @@
 
 1. [쉽게 설명한 병합 정렬 알고리즘 오름차순](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/10/10-1.py)
 2. [일반적인 병학 정렬 알고리즘 오름차순](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/10/10-2.py)
-3. [쉽게 설명한 병합 정렬 알고리즘 내림차순]()
+3. [쉽게 설명한 병합 정렬 알고리즘 내림차순](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/10/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C10-1.py)
 4. [일반적인 병학 정렬 알고리즘 내림차순](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/10/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C10-2.py)
 
 </details>
