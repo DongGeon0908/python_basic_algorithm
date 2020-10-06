@@ -110,5 +110,6 @@
 <summary>Chapter 13</summary>
 
 1. [회문 찾기 알고리즘 큐와 스택을 이용해서](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/13/13-1.py)
+2. [회문 찾기 알고리즘 큐와 스택 없이](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/13/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C13-1.py)
 
 </details>
