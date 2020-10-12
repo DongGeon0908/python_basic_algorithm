@@ -124,5 +124,6 @@
 <summary>Chapter 15</summary>
 
 1. [모든 친구를 찾는 알고리즘](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/15/15-1.py)
+2. [모든 친구를 찾아서 친밀도를 계산하는 알고리즘](https://github.com/DongGeon0908/python_basic_algorithm/blob/master/%ED%92%80%EC%9D%B4/15/15-2.py)
 
 </details>
